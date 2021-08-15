@@ -19,3 +19,4 @@ I really like website development and also mobile application development.
 <a href="https://www.behance.net/jerryandrianto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jerry andrianto pangaribuan" height="30" width="40" /></a>
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerry2204&theme=highcontrast&show_icons=true" alt="jerry2204" /></p>
