@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Jerry Andrianto Pangaribuan
 #### I am student at Del Institute of Technology
 <img alt="GIF" src="https://jerry-portfolio.netlify.app/assets/Foto.png" height="320" />
-<img alt="GIF" alignt="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="320" />
+<img alt="GIF" alignt="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 Hello,
 My name is **Jerry Andrianto Pangaribuan**, I was born on April 22, 2000 and grew up in Simalungun Regency, I am a student of the Software Engineering Technology study program at the **Del Institute of Technology.**
