@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Jerry Andrianto Pangaribuan
 #### I am student at Del Institute of Technology
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="320" />
 ![I am student at Del Institute of Technology](https://jerry-portfolio.netlify.app/assets/Foto.png)
 
 Hello,
