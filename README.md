@@ -1,5 +1,5 @@
 <div align="center">
-<samp><h2>Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" />, my name is Jerry Andrianto Pangaribuan</h2></samp>  
+<samp><h2>Hi there, my name is Jerry Andrianto Pangaribuan</h2></samp>  
   <samp><h3>I am student at Del Institute of Technology </h3></samp>
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
   
