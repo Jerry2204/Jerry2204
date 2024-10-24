@@ -32,8 +32,6 @@ My name is **Jerry Andrianto Pangaribuan**, I was born on April 22, 2000 and gre
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jerry2204&theme=highcontrast&show_icons=true" alt="jerry2204" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerry2204&theme=highcontrast" alt="jerry2204" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jerry2204&theme=highcontrast&show_icons=true&locale=en&layout=compact" alt="jerry2204" /></p>
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rn2bduw0hk8wfc5ltbvy0ap4d&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=rn2bduw0hk8wfc5ltbvy0ap4d&redirect=true)
 
   ![Visitor Count](https://profile-counter.glitch.me/Jerry2204/count.svg)
 </div>
